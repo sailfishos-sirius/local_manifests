@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project path="device/xiaomi/sirius" name="BusterGR18/android_device_xiaomi_sirius" revision="lineage-16.0" />
+<project path="device/xiaomi/sdm710-common" name="BusterGR18/android_device_xiaomi_sdm710-common" revision="hybris-16.0" />
+<project name="BusterGR18/kernel_xiaomi_sdm710" path="kernel/xiaomi/sdm710" revision="hybris-16.0" />
+<project name="BusterGR18/v_sirius" path="vendor/xiaomi"/>
+<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+<project path="hybris/droid-hal-version-sirius" name="BusterGR18/droid-hal-version-sirius" revision="master" />
+<project path="hybris/droid-configs" name="BusterGR18/droid-config-sirius" revision="master" />
+<project path="rpm" name="BusterGR18/droid-hal-sirius" revision="master" />
+</manifest>
